@@ -1,4 +1,7 @@
 # Side-Scrolling Game 
+## System Requirements
+* Python 3.10.4 or latest.
+* Pygame installed. 
 ## Instructions
 To play the game:
 1) Download the .zip from this repository: https://github.com/leogj99/Spring-2022-Project.
