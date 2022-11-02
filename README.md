@@ -14,3 +14,5 @@ In this project you have control of a character, this character can move freely 
 * Up, Down, Left, Right keyboards: Control character movement.
 * Left Control: Throws boomerangs.
 * Esc key: Closes the program.
+
+![Project pic](https://user-images.githubusercontent.com/81594515/199364471-a8a7741f-adf3-440a-bdab-53fef42b9c19.PNG)
